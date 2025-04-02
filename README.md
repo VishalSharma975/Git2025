@@ -1,4 +1,4 @@
 # Git2025
 
 
-##Training by Vimal Daga
+<b>Training by Vimal Daga</b>
